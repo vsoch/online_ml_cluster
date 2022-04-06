@@ -12,7 +12,7 @@ $ pip install -e .
 or from GitHub
 
 ```bash
-pip install git+https://github.com/vsoch/online-ml-custom.git@main
+$ pip install git+https://github.com/vsoch/online_ml_custom.git@main
 ```
 
 ## Models
